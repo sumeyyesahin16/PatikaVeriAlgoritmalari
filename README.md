@@ -1,2 +1,0 @@
-# PatikaVeriAlgoritmalari
-Insertion Sort
